@@ -293,6 +293,8 @@ t = S/V
 
 <img width="1127" height="1753" alt="2025-07-17_175503" src="https://github.com/user-attachments/assets/ef1ccb73-7565-4950-ad7c-6605037017b1" />
 
+ </details>
+
 #### Разработаны тест-кейсы
 
 <img width="1264" height="6739" alt="2025-07-17_201250" src="https://github.com/user-attachments/assets/ddf57504-521e-439b-b07c-f34b1657f1ab" />
