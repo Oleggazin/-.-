@@ -307,6 +307,7 @@ t = S/V
 <summary>Тест-кейсы  </summary>
 
 
+
 <img width="1264" height="6739" alt="2025-07-17_201250" src="https://github.com/user-attachments/assets/ddf57504-521e-439b-b07c-f34b1657f1ab" />
 
  </details>
