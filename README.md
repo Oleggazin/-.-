@@ -288,6 +288,8 @@ t = S/V
 ### 1-й спринт
 В ходе тест-анализа требований, была применена техника тест-дизайна: Классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минут)
 
+[Вся тестовая документация 1-го спринта доступна также по ссылке](https://docs.google.com/spreadsheets/d/1PNU6NS9hVmhvp_0OIpC-5Ylx5ndRhMvnTTpufuO_SyI/edit?usp=sharing)
+
 #### Классы эквивалентности и граничные значения
 
 
@@ -313,27 +315,54 @@ t = S/V
 
 #### Заведены баг-репорты
 
+<details>
+<summary>Баг-репорты </summary>
+
 <img width="1202" height="1354" alt="2025-07-17_202006" src="https://github.com/user-attachments/assets/ead6196e-9773-47d5-b587-ad49c524fdfc" />
 
+ </details>
+
 #### 2-й спринт
+
+[Вся тестовая документация 2-го спринта доступна также по ссылке](https://docs.google.com/spreadsheets/d/1ael1V46r1TpgPtpqRVUEZNGCRysRYFpejl2xaL0v5-Q/edit?usp=sharing)
+
 Составлен чек-лист на верстку 
+
+<details>
+<summary>Чек-лист на верстку </summary>
+
 
 <img width="1259" height="3486" alt="1" src="https://github.com/user-attachments/assets/95bbcdc3-db54-4ee0-85c2-5740c0afdf75" />
 
+ </details>
+
 Также составлен чек-лист и результаты выполнения тестов: тестирование окон «Способ оплаты» и «Добавление карты»	
+
+<details>
+<summary>Чек-лист на верстку окон "Способ оплаты" и "Добавление карты" </summary>
 
 <img width="1172" height="1119" alt="2" src="https://github.com/user-attachments/assets/a03b6fd4-c690-4517-b38a-2f28fd4866af" />
 
+ </details>
+
 #### Разработаны тест-кейсы на логику кнопки "Забронировать"
+
+<details>
+<summary>Тест-кейсы на кнопку "Забронировать" </summary>
 
 <img width="1212" height="928" alt="3" src="https://github.com/user-attachments/assets/4dc4ecd3-a5b7-428f-a406-08b074880c88" />
 
+ </details>
+
 #### Заведены следующие баг-репорты
+
 
 <details>
  <summary> Баг-репорты </summary>
 
 <img width="1268" height="4012" alt="4" src="https://github.com/user-attachments/assets/c16b37c1-f10a-4f86-b119-87183cc235f9" />
+
+ </details>
 
 
 
